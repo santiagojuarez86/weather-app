@@ -15,24 +15,24 @@ Una aplicación web del clima con diseño glassmorphism y tonos oscuros, desarro
 ## Instalación
 
 1. Instalar dependencias:
-\`\`\`bash
-npm install
-\`\`\`
+   ```bash
+   npm install
+   ```
 
 2. Ejecutar en modo desarrollo:
-\`\`\`bash
-npm run dev
-\`\`\`
+   ```bash
+   npm run dev
+   ```
 
 3. Crear build para producción:
-\`\`\`bash
-npm run build
-\`\`\`
+   ```bash
+   npm run build
+   ```
 
 4. Previsualizar build:
-\`\`\`bash
-npm run preview
-\`\`\`
+   ```bash
+   npm run preview
+   ```
 
 ## API
 
@@ -50,14 +50,14 @@ La aplicación utiliza la API gratuita de Open Meteo para obtener datos del clim
 
 ## Estructura del Proyecto
 
-\`\`\`
+```plaintext
 src/
-├── components/         # Componentes React
-├── hooks/             # Custom hooks
-├── App.tsx            # Componente principal
-├── main.tsx           # Punto de entrada
-└── index.css          # Estilos globales
-\`\`\`
+├── components/    # Componentes React
+├── hooks/         # Custom hooks
+├── App.tsx        # Componente principal
+├── main.tsx       # Punto de entrada
+└── index.css      # Estilos globales
+```
 
 ## Licencia
 
