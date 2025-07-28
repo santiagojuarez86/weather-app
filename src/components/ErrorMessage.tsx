@@ -1,5 +1,3 @@
-"use client"
-
 import { AlertCircle, RefreshCw } from "lucide-react"
 
 interface ErrorMessageProps {
